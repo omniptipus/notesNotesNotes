@@ -1,12 +1,12 @@
 #!/bin/bash
 
 
-#Created by Trevor for Trevor
+#Created by omniptipus for omniptipus
 #1/26/2016
 #Execute this script to create a text file in ~/Documents/Notes with today's Date in the filename
 
 
-#NOTE: This script works best in conjunction with other scripts by tsys: notes.sh, nopen.sh, and Daily_Notes.command"
+#NOTE: This script works best in conjunction with other scripts by omniptipus: notes.sh, nopen.sh, and Daily_Notes.command"
 
 #NOTE: Work's best if Terminal is set to close after a process completes
 
